@@ -1,0 +1,14 @@
+Make sure you have a txt file with the website links.
+Follow these few steps for successful installation.
+
+1.Check if your pc is connected to the internet.
+
+2.Run installer file to install all needed modules and packages for your env.
+
+3.Run mail-leecher file and input parameters needed.
+
+NOTE:For faster email leeching you can disable your antivirus software and win defender.
+
+HAPPY HUNTING FAM.
+
+FOR MORE UPDATES JOIN US @:ByteCode-Crackers ON TELEGRAM
